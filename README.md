@@ -9,4 +9,6 @@
 - message_passing.ipynb generates Figures 6, 7.
 - parameter_tuning.ipynb generates Figures 8, 9. 
 
-You can play interactively with the code of the Jupyter Notebooks using Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/raphael-berthier/jacobi-polynomial-iterations/master). The launch may take one or two minutes. 
+You can play interactively with the code of the Jupyter Notebooks using Binder. The launch may take one or two minutes. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/raphael-berthier/jacobi-polynomial-iterations/master)
+Warning: Some simulations might be too expensive to run on Binder. However, all can run on a regular laptop. 

@@ -2,12 +2,12 @@
 
 
 - [polynomial_gossip.py](https://github.com/raphael-berthier/jacobi-polynomial-iterations/blob/master/polynomial_gossip.py) contains auxiliary functions that are used in the files below.
-- grid.ipynb generates Figures 2A, 2B, 3, 4.
-- percolation.ipynb generates  Figures 2C, 2D. 
-- random_geometric_graph.ipynb generates Figures 2D, 2F.
-- comparison_polynomials.ipynb generates Figure 5.
-- message_passing.ipynb generates Figures 6, 7.
-- parameter_tuning.ipynb generates Figures 8, 9. 
+- [grid.ipynb](https://github.com/raphael-berthier/jacobi-polynomial-iterations/blob/master/grid.ipynb) generates Figures 2A, 2B, 3, 4.
+- [percolation.ipynb](https://github.com/raphael-berthier/jacobi-polynomial-iterations/blob/master/percolation.ipynb) generates  Figures 2C, 2D. 
+- [random_geometric_graph.ipynb](https://github.com/raphael-berthier/jacobi-polynomial-iterations/blob/master/random_geometric_graph.ipynb) generates Figures 2D, 2F.
+- [comparison_polynomials.ipynb](https://github.com/raphael-berthier/jacobi-polynomial-iterations/blob/master/comparison_polynomials.ipynb) generates Figure 5.
+- [message_passing.ipynb](https://github.com/raphael-berthier/jacobi-polynomial-iterations/blob/master/message_passing.ipynb) generates Figures 6, 7.
+- [parameter_tuning.ipynb](https://github.com/raphael-berthier/jacobi-polynomial-iterations/blob/master/parameter_tuning.ipynb) generates Figures 8, 9. 
 
 You can play interactively with the code of the Jupyter Notebooks using Binder. The launch may take one or two minutes. 
 
